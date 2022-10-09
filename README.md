@@ -7,4 +7,4 @@ My name is Zeshan (pronounced "zee-shawn").
 - Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
 
-Feel free to check out my [Linkedin](https://www.linkedin.com/in/zeshanahmed/).
+Feel free to check out my [Linkedin](https://www.linkedin.com/in/zeshanahmed/) and contact me via [Email](zahme2@uwo.ca).
