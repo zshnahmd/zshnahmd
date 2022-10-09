@@ -1,4 +1,3 @@
-<br>
 <h2 align="left">Welcome! 👋🏼</h2> 
 
 My name is Zeshan (pronounced "zee-shawn").
@@ -9,4 +8,3 @@ My name is Zeshan (pronounced "zee-shawn").
 
 
 Feel free to check out my [Linkedin](https://www.linkedin.com/in/zeshanahmed/).
-
