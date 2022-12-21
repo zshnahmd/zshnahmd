@@ -1,6 +1,6 @@
 <h2 align="left">Welcome! 👋🏼</h2> 
 
-My name is Zeshan (pronounced "zee-shawn").
+My name is Zeshan.
 
 - I'm studying CS @ UWO's Computer Science program as an undergraduate student currently pursuing an Honours Specialization.
 - Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
